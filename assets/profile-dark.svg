@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="740" viewBox="0 0 960 740" role="img" aria-labelledby="title desc">
+  <title id="title">Nitheesh Chanambatla — Data Engineer</title>
+  <desc id="desc">A bordered system-style profile with an original ASCII portrait and verified data engineering facts.</desc>
+  <rect width="960" height="740" rx="18" fill="#0b111b"/>
+  <rect x="1" y="1" width="958" height="738" rx="17" fill="none" stroke="#34445a" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="52" rx="17" fill="#111b2a"/>
+  <path d="M1 36h958v17H1z" fill="#111b2a"/>
+  <circle cx="25" cy="26" r="6" fill="#4fd1b5"/><circle cx="47" cy="26" r="6" fill="#56a8ff"/><circle cx="69" cy="26" r="6" fill="#d88b3d"/>
+  <text x="94" y="33" fill="#eef5ff" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600">nitheesh@data-engineering</text>
+  <path d="M365 74v636" stroke="#28384d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#91a9c7" xml:space="preserve">
+    <text x="27" y="98"><tspan x="27" dy="0">     @%@@@@@@@@@@@%%%%@%%%%%#%@</tspan><tspan x="27" dy="15">    @@@@@@@@@@@@@@@@@@@@@%@@%%@@</tspan><tspan x="27" dy="15">   @@%##@@@@@@@@@@@@@@@@@@@@@@@@%</tspan><tspan x="27" dy="15">   @%##*%@@@@@@@@@@@%%%%@@@@@@@@@</tspan><tspan x="27" dy="15">  @%#####@@@@@@%%%%%%%%%%%%@@%%%@@</tspan><tspan x="27" dy="15"> #######%%%@@@%%#%#%%%@@#%@@@%%%%@@</tspan><tspan x="27" dy="15"> @@@@%##%%%@%#*=---===+#@@@@@@@@@@@</tspan><tspan x="27" dy="15">==*@@@%#@%%%#+-:.. .:-=+#@@@@@@@@@@@</tspan><tspan x="27" dy="15">--+@@@@%@@%#+=-:....:-=+*%@@@@@@@@@@</tspan><tspan x="27" dy="15">--*@@@@@@@%**++=. ..-==+*%%@@@@@%@@@</tspan><tspan x="27" dy="15">--*@@@@@@%#**+++=:.=+++**%@@@@@@@@@@</tspan><tspan x="27" dy="15">--#@@@@@+%*=++=-+====++++#@@@@@@@@@@</tspan><tspan x="27" dy="15">-=#@@@@#.+*==-:-+-==-=++=#=*@@@@@@@@</tspan><tspan x="27" dy="15">-=%@@@@%-+*-. .--.:-..:-++:#@@@@@@@@</tspan><tspan x="27" dy="15">++@@@@@@=+*-.:-==-==-..-*++@@@@@@@@@</tspan><tspan x="27" dy="15">*%@@@@@@#**-:=+==-=++=-=*=*@@@@@@@@@</tspan><tspan x="27" dy="15">=%@@@@@@@@#-:-==. :+=--=%%@%@@@@@@@@</tspan><tspan x="27" dy="15">+=%@@@@@@@%*+--=-:-=--=#@@@@@@@@@%@@</tspan><tspan x="27" dy="15">+-=#@@@@@#**##=-..:=+****#@%%@@@@%@@</tspan><tspan x="27" dy="15">----=+*##*#++%%#***%%*+****+%@@@@%@@</tspan><tspan x="27" dy="15">-----===+*#*=+*#%%%#+=+*##+*@@@@@%@@</tspan><tspan x="27" dy="15">--=+=--+++*+=====-====++**+++*%@@@@@</tspan><tspan x="27" dy="15">+===--=++++===-------====*++-:-=*#%%</tspan><tspan x="27" dy="15"> ---==+*+++=---.::::--=-=+++=---:--</tspan><tspan x="27" dy="15"> ---===++=++--:    .:--=*+++==-----</tspan><tspan x="27" dy="15">  ===========-......:--+*====-----</tspan><tspan x="27" dy="15">  =======-=----::.:---------------</tspan><tspan x="27" dy="15">   ========----::-==-------------</tspan><tspan x="27" dy="15">    ======-=----:++=--------==--</tspan><tspan x="27" dy="15">     ====---=---:========-----=</tspan><tspan x="27" dy="15">      ===-------::==--=====---</tspan><tspan x="27" dy="15">       =--------::==-----====</tspan></text>
+  </g>
+  <text x="61" y="610" fill="#4fd1b5" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="15">original portrait-derived ASCII</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <text x="395" y="89" fill="#56a8ff">IDENTITY</text>
+    <text x="395" y="119" fill="#77c8ff">Name ............</text><text x="552" y="119" fill="#f4f7fb">Nitheesh Chanambatla</text>
+    <text x="395" y="146" fill="#77c8ff">Role ............</text><text x="552" y="146" fill="#f4f7fb">Data Engineer</text>
+    <text x="395" y="173" fill="#77c8ff">Track ...........</text><text x="552" y="173" fill="#f4f7fb">Cloud Data Engineering</text>
+    <text x="395" y="200" fill="#77c8ff">Location ........</text><text x="552" y="200" fill="#f4f7fb">Dayton, Ohio</text>
+    <text x="395" y="227" fill="#77c8ff">Status ..........</text><text x="552" y="227" fill="#4fd1b5">Open to Data Engineering opportunities</text>
+    <path d="M395 249h535" stroke="#28384d"/>
+    <text x="395" y="277" fill="#56a8ff">TECHNICAL FOCUS</text>
+    <text x="395" y="307" fill="#77c8ff">Languages .......</text><text x="552" y="307" fill="#f4f7fb">Python, SQL</text>
+    <text x="395" y="334" fill="#77c8ff">Processing ......</text><text x="552" y="334" fill="#f4f7fb">Apache Spark, Pandas</text>
+    <text x="395" y="361" fill="#77c8ff">Databases .......</text><text x="552" y="361" fill="#f4f7fb">PostgreSQL, PostGIS, SQLite</text>
+    <text x="395" y="388" fill="#77c8ff">Engineering .....</text><text x="552" y="388" fill="#f4f7fb">ETL, SCD Type 2, Data Quality, Reconciliation</text>
+    <text x="395" y="415" fill="#77c8ff">Systems .........</text><text x="552" y="415" fill="#f4f7fb">Batch, Warehouse, Geospatial Event Processing</text>
+    <text x="395" y="442" fill="#77c8ff">Tooling .........</text><text x="552" y="442" fill="#f4f7fb">Git, GitHub Actions, Docker</text>
+    <path d="M395 464h535" stroke="#28384d"/>
+    <text x="395" y="492" fill="#d88b3d">VERIFIED SYSTEMS</text>
+    <text x="395" y="522" fill="#77c8ff">NASA ............</text><text x="552" y="522" fill="#f4f7fb">1M replay events | 6,688.88 events/sec</text>
+    <text x="395" y="549" fill="#77c8ff">Customer360 .....</text><text x="552" y="549" fill="#f4f7fb">400K verified sales facts | PostgreSQL | SCD2</text>
+    <text x="395" y="576" fill="#77c8ff">RetailSync ......</text><text x="552" y="576" fill="#f4f7fb">100K deterministic orders | Pandas | SQLite</text>
+    <path d="M395 598h535" stroke="#28384d"/>
+    <text x="395" y="626" fill="#56a8ff">CONTACT + ACCURACY</text>
+    <text x="395" y="652" fill="#77c8ff">LinkedIn ........</text><text x="552" y="652" fill="#f4f7fb">linkedin.com/in/nitheesh2325</text>
+    <text x="395" y="678" fill="#77c8ff">Email ...........</text><text x="552" y="678" fill="#f4f7fb">nitheeshc2325@gmail.com</text>
+    <text x="395" y="704" fill="#77c8ff">AWS .............</text><text x="552" y="704" fill="#d88b3d">Designed and locally validated | Not deployed</text>
+  </g>
+</svg>

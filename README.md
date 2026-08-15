@@ -1,9 +1,9 @@
 # Nitheesh Chanambatla
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/data-engineering-console-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/data-engineering-console-light.svg">
-  <img alt="Data engineering profile console" src="assets/data-engineering-console-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img alt="Nitheesh Chanambatla data engineering profile" src="assets/profile-dark.svg">
 </picture>
 
 I build reproducible data pipelines, analytical warehouses, validation systems,
