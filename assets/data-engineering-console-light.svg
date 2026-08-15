@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500" role="img" aria-labelledby="title desc">
+  <title id="title">Nitheesh Chanambatla data engineering profile</title>
+  <desc id="desc">A concise technical console showing role, location, engineering focus, workflow, availability, and verified portfolio scale.</desc>
+  <rect width="720" height="500" rx="18" fill="#f8fafc"/>
+  <rect x="1" y="1" width="718" height="498" rx="17" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="1" y="1" width="718" height="52" rx="17" fill="#e8eef7"/>
+  <path d="M1 36h718v17H1z" fill="#e8eef7"/>
+  <circle cx="26" cy="26" r="6" fill="#087f5b"/>
+  <circle cx="48" cy="26" r="6" fill="#0969da"/>
+  <circle cx="70" cy="26" r="6" fill="#94a3b8"/>
+  <text x="96" y="33" fill="#172033" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600">nitheesh@data-engineering</text>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20">
+    <text x="32" y="88" fill="#0969da">$ profile --summary</text>
+    <text x="32" y="126" fill="#0369a1">Role</text><text x="156" y="126" fill="#172033">Data Engineer | Cloud Data Engineering</text>
+    <text x="32" y="158" fill="#0369a1">Location</text><text x="156" y="158" fill="#172033">Dayton, Ohio</text>
+    <text x="32" y="190" fill="#0369a1">Focus</text><text x="156" y="190" fill="#172033">Python · SQL · Spark · PostgreSQL/PostGIS</text>
+    <text x="32" y="222" fill="#0369a1">Systems</text><text x="156" y="222" fill="#172033">Batch · Warehousing · Quality · Geospatial</text>
+    <text x="32" y="254" fill="#0369a1">Workflow</text><text x="156" y="254" fill="#172033">Sources → Validate → Process → Store → Analyze</text>
+    <text x="32" y="286" fill="#0369a1">Status</text><text x="156" y="286" fill="#087f5b">Open to Data Engineering opportunities</text>
+    <path d="M32 316h656" stroke="#94a3b8" stroke-width="1"/>
+    <text x="32" y="350" fill="#0969da">$ evidence --verified</text>
+    <text x="32" y="386" fill="#0369a1">NASA</text><text x="210" y="386" fill="#172033">1M replay events · 6,688.88 events/sec</text>
+    <text x="32" y="418" fill="#0369a1">Customer360</text><text x="210" y="418" fill="#172033">400K verified sales facts</text>
+    <text x="32" y="450" fill="#0369a1">RetailSync</text><text x="210" y="450" fill="#172033">100K deterministic orders</text>
+    <text x="32" y="480" fill="#087f5b">● evidence-backed systems</text>
+  </g>
+</svg>

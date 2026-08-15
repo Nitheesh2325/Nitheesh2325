@@ -9,40 +9,19 @@
   <circle cx="48" cy="26" r="6" fill="#47a3ff"/>
   <circle cx="70" cy="26" r="6" fill="#24354d"/>
   <text x="96" y="33" fill="#dce8f7" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600">nitheesh@data-engineering</text>
-
   <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="20">
     <text x="32" y="88" fill="#47a3ff">$ profile --summary</text>
-
-    <text x="32" y="126" fill="#7dd3fc">Role</text>
-    <text x="156" y="126" fill="#f4f8fc">Data Engineer | Cloud Data Engineering</text>
-
-    <text x="32" y="158" fill="#7dd3fc">Location</text>
-    <text x="156" y="158" fill="#f4f8fc">Dayton, Ohio</text>
-
-    <text x="32" y="190" fill="#7dd3fc">Focus</text>
-    <text x="156" y="190" fill="#f4f8fc">Python · SQL · Spark · PostgreSQL/PostGIS</text>
-
-    <text x="32" y="222" fill="#7dd3fc">Systems</text>
-    <text x="156" y="222" fill="#f4f8fc">Batch · Warehousing · Quality · Geospatial</text>
-
-    <text x="32" y="254" fill="#7dd3fc">Workflow</text>
-    <text x="156" y="254" fill="#f4f8fc">Sources → Validate → Process → Store → Analyze</text>
-
-    <text x="32" y="286" fill="#7dd3fc">Status</text>
-    <text x="156" y="286" fill="#55d6be">Open to Data Engineering opportunities</text>
-
+    <text x="32" y="126" fill="#7dd3fc">Role</text><text x="156" y="126" fill="#f4f8fc">Data Engineer | Cloud Data Engineering</text>
+    <text x="32" y="158" fill="#7dd3fc">Location</text><text x="156" y="158" fill="#f4f8fc">Dayton, Ohio</text>
+    <text x="32" y="190" fill="#7dd3fc">Focus</text><text x="156" y="190" fill="#f4f8fc">Python · SQL · Spark · PostgreSQL/PostGIS</text>
+    <text x="32" y="222" fill="#7dd3fc">Systems</text><text x="156" y="222" fill="#f4f8fc">Batch · Warehousing · Quality · Geospatial</text>
+    <text x="32" y="254" fill="#7dd3fc">Workflow</text><text x="156" y="254" fill="#f4f8fc">Sources → Validate → Process → Store → Analyze</text>
+    <text x="32" y="286" fill="#7dd3fc">Status</text><text x="156" y="286" fill="#55d6be">Open to Data Engineering opportunities</text>
     <path d="M32 316h656" stroke="#314158" stroke-width="1"/>
     <text x="32" y="350" fill="#47a3ff">$ evidence --verified</text>
-
-    <text x="32" y="386" fill="#7dd3fc">NASA</text>
-    <text x="156" y="386" fill="#f4f8fc">1M replay events · 6,688.88 events/sec</text>
-
-    <text x="32" y="418" fill="#7dd3fc">Customer360</text>
-    <text x="156" y="418" fill="#f4f8fc">400K verified sales facts</text>
-
-    <text x="32" y="450" fill="#7dd3fc">RetailSync</text>
-    <text x="156" y="450" fill="#f4f8fc">100K deterministic orders</text>
-
+    <text x="32" y="386" fill="#7dd3fc">NASA</text><text x="210" y="386" fill="#f4f8fc">1M replay events · 6,688.88 events/sec</text>
+    <text x="32" y="418" fill="#7dd3fc">Customer360</text><text x="210" y="418" fill="#f4f8fc">400K verified sales facts</text>
+    <text x="32" y="450" fill="#7dd3fc">RetailSync</text><text x="210" y="450" fill="#f4f8fc">100K deterministic orders</text>
     <text x="32" y="480" fill="#55d6be">● evidence-backed systems</text>
   </g>
 </svg>

@@ -1,6 +1,10 @@
 # Nitheesh Chanambatla
 
-![Data engineering profile console](assets/data-engineering-console.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/data-engineering-console-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/data-engineering-console-light.svg">
+  <img alt="Data engineering profile console" src="assets/data-engineering-console-light.svg">
+</picture>
 
 I build reproducible data pipelines, analytical warehouses, validation systems,
 and geospatial event-processing workflows with reproducible tests, explicit
