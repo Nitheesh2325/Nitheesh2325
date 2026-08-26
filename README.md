@@ -12,22 +12,15 @@ contracts, and measurable reconciliation.
 
 ## Featured systems
 
-### 1. [NASA Earth Observation Event Intelligence Platform](https://github.com/Nitheesh2325/nasa-earth-observation-event-platform) — Flagship
+### [NASA Earth Observation Event Intelligence Platform](https://github.com/Nitheesh2325/nasa-earth-observation-event-platform) — Flagship
 
-NASA FIRMS geospatial event-processing platform verified locally with
-**1,000,000 replay events** using Spark and PostgreSQL/PostGIS, with measured
-throughput of **6,688.88 events/second**.
+Independently designed geospatial data platform built on 10,000 real NASA FIRMS detections using Python, Kafka, Spark, Airflow, PostgreSQL/PostGIS, FastAPI, and AWS EMR Serverless.
 
-Separately, AWS EMR Serverless processed and independently verified **5,000,000
-replay events** at **8,734.80 events/second**. The verifier reconciled the
-scientific aggregates and matched **82 Silver/Gold data-file checksums**. After
-evidence was preserved, temporary execution permission was removed and the AWS
-foundation was torn down. This was bounded managed validation, not a
-continuously hosted service. A local 10-million-event experiment verified only
-deterministic generation and read-back; Spark processing at that scale exceeded
-the available JVM heap.
+Verified the complete local platform with 1M replay events and processed 5M replay events on AWS at 8,734.80 events/second—with zero rejects, zero duplicates, replay-neutral scientific aggregates, and independent checksum verification across 82 Silver/Gold files.
 
-### 2. [Customer360 Analytics Warehouse](https://github.com/Nitheesh2325/customer-360-analytics-warehouse) — Supporting
+`Python` · `PySpark` · `Kafka` · `Airflow` · `PostGIS` · `FastAPI` · `AWS EMR Serverless` · `CloudFormation`
+
+### [Customer360 Analytics Warehouse](https://github.com/Nitheesh2325/customer-360-analytics-warehouse) — Supporting
 
 PostgreSQL dimensional warehouse with **400,000 verified sales facts**, customer
 and product SCD Type 2 processing, surrogate-key resolution, validation and
@@ -37,7 +30,7 @@ Automated tests and hosted CI passed.
 Facts resolve the dimension version current at load time; event-time historical
 attribution is not implemented.
 
-### 3. [RetailSync Data Platform](https://github.com/Nitheesh2325/retailsync-data-platform) — Supporting
+### [RetailSync Data Platform](https://github.com/Nitheesh2325/retailsync-data-platform) — Supporting
 
 Deterministic local **100,000-order** batch pipeline with Pandas validation,
 rejected-record persistence, transactional SQLite snapshot replacement, rerun
