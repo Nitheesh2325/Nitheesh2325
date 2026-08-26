@@ -18,10 +18,11 @@ NASA FIRMS geospatial event-processing platform verified locally with
 **1,000,000 replay events** using Spark and PostgreSQL/PostGIS, with measured
 throughput of **6,688.88 events/second**.
 
-AWS infrastructure is designed and locally validated, not deployed. A separate
-10-million-event experiment verified deterministic generation and read-back;
-Spark processing at that scale did not complete because of local JVM memory
-limits. GitHub Actions passed.
+Separately, AWS EMR Serverless processed and independently verified **5,000,000
+replay events** at **8,734.80 events/second**. Temporary execution permission
+was removed after the run. A local 10-million-event experiment verified only
+deterministic generation and read-back; Spark processing at that scale exceeded
+the available JVM heap.
 
 ### 2. [Customer360 Analytics Warehouse](https://github.com/Nitheesh2325/customer-360-analytics-warehouse) — Supporting
 
@@ -50,7 +51,7 @@ cloud orchestration, or production deployment.
 - **Databases:** PostgreSQL, PostGIS, SQLite
 - **Data engineering:** ETL, dimensional modelling, SCD Type 2, validation, reconciliation, idempotency
 - **Engineering tools:** Git, GitHub Actions, Docker
-- **Cloud:** AWS infrastructure design and local validation
+- **Cloud:** AWS EMR Serverless, S3, KMS, CloudFormation, IAM, CloudWatch
 
 ## Engineering principles
 
