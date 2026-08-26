@@ -6,9 +6,9 @@
   <img alt="Nitheesh Chanambatla data engineering profile" src="assets/profile-dark.svg">
 </picture>
 
-I build reproducible data pipelines, analytical warehouses, validation systems,
-and geospatial event-processing workflows with reproducible tests, explicit
-data contracts, and measurable reconciliation.
+I build data pipelines, analytical warehouses, validation systems, and
+geospatial event-processing workflows with reproducible tests, explicit data
+contracts, and measurable reconciliation.
 
 ## Featured systems
 
@@ -19,8 +19,11 @@ NASA FIRMS geospatial event-processing platform verified locally with
 throughput of **6,688.88 events/second**.
 
 Separately, AWS EMR Serverless processed and independently verified **5,000,000
-replay events** at **8,734.80 events/second**. Temporary execution permission
-was removed after the run. A local 10-million-event experiment verified only
+replay events** at **8,734.80 events/second**. The verifier reconciled the
+scientific aggregates and matched **82 Silver/Gold data-file checksums**. After
+evidence was preserved, temporary execution permission was removed and the AWS
+foundation was torn down. This was bounded managed validation, not a
+continuously hosted service. A local 10-million-event experiment verified only
 deterministic generation and read-back; Spark processing at that scale exceeded
 the available JVM heap.
 
@@ -47,11 +50,23 @@ cloud orchestration, or production deployment.
 ## Technical toolkit
 
 - **Languages:** Python, SQL
-- **Processing:** Apache Spark, Pandas
+- **Processing:** Apache Kafka, Apache Spark, Pandas
+- **Orchestration:** Apache Airflow
 - **Databases:** PostgreSQL, PostGIS, SQLite
 - **Data engineering:** ETL, dimensional modelling, SCD Type 2, validation, reconciliation, idempotency
-- **Engineering tools:** Git, GitHub Actions, Docker
+- **Serving and visualization:** FastAPI, Streamlit
+- **Engineering tools:** Git, GitHub Actions, Docker, automated testing
 - **Cloud:** AWS EMR Serverless, S3, KMS, CloudFormation, IAM, CloudWatch
+
+## Remote sensing training
+
+Completed five NASA Applied Remote Sensing Training (ARSET) certificates of
+completion covering remote-sensing fundamentals, hyperspectral data for land
+and coastal systems, and sustainable Earth-science application development.
+
+- **Fundamentals of Remote Sensing** — August 3, 2026
+- **Hyperspectral Data for Land and Coastal Systems** — August 17, 2026
+- **Developing Sustainable Earth Science Applications, Modules 1–3** — August 19, 2026
 
 ## Engineering principles
 

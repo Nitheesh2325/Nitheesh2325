@@ -21,11 +21,11 @@
     <path d="M395 249h535" stroke="#28384d"/>
     <text x="395" y="277" fill="#56a8ff">TECHNICAL FOCUS</text>
     <text x="395" y="307" fill="#77c8ff">Languages .......</text><text x="552" y="307" fill="#f4f7fb">Python, SQL</text>
-    <text x="395" y="334" fill="#77c8ff">Processing ......</text><text x="552" y="334" fill="#f4f7fb">Apache Spark, Pandas</text>
-    <text x="395" y="361" fill="#77c8ff">Databases .......</text><text x="552" y="361" fill="#f4f7fb">PostgreSQL, PostGIS, SQLite</text>
-    <text x="395" y="388" fill="#77c8ff">Engineering .....</text><text x="552" y="388" fill="#f4f7fb">ETL, SCD Type 2, Data Quality, Reconciliation</text>
-    <text x="395" y="415" fill="#77c8ff">Systems .........</text><text x="552" y="415" fill="#f4f7fb">Batch, Warehouse, Geospatial Event Processing</text>
-    <text x="395" y="442" fill="#77c8ff">Tooling .........</text><text x="552" y="442" fill="#f4f7fb">Git, GitHub Actions, Docker</text>
+    <text x="395" y="334" fill="#77c8ff">Processing ......</text><text x="552" y="334" fill="#f4f7fb">Kafka, Apache Spark, Pandas</text>
+    <text x="395" y="361" fill="#77c8ff">Orchestration ...</text><text x="552" y="361" fill="#f4f7fb">Apache Airflow</text>
+    <text x="395" y="388" fill="#77c8ff">Databases .......</text><text x="552" y="388" fill="#f4f7fb">PostgreSQL, PostGIS, SQLite</text>
+    <text x="395" y="415" fill="#77c8ff">Serving .........</text><text x="552" y="415" fill="#f4f7fb">FastAPI, Streamlit</text>
+    <text x="395" y="442" fill="#77c8ff">Remote sensing ..</text><text x="552" y="442" fill="#f4f7fb">NASA ARSET, hyperspectral data</text>
     <path d="M395 464h535" stroke="#28384d"/>
     <text x="395" y="492" fill="#d88b3d">VERIFIED SYSTEMS</text>
     <text x="395" y="522" fill="#77c8ff">NASA ............</text><text x="552" y="522" fill="#f4f7fb">1M replay events | 6,688.88 events/sec</text>
@@ -35,6 +35,6 @@
     <text x="395" y="626" fill="#56a8ff">CONTACT + ACCURACY</text>
     <text x="395" y="652" fill="#77c8ff">LinkedIn ........</text><text x="552" y="652" fill="#f4f7fb">linkedin.com/in/nitheesh2325</text>
     <text x="395" y="678" fill="#77c8ff">Email ...........</text><text x="552" y="678" fill="#f4f7fb">nitheeshc2325@gmail.com</text>
-    <text x="395" y="704" fill="#77c8ff">AWS .............</text><text x="552" y="704" fill="#d88b3d">5M EMR batch | Independently verified</text>
+    <text x="395" y="704" fill="#77c8ff">AWS .............</text><text x="552" y="704" fill="#d88b3d">EMR Serverless | 5M independently verified</text>
   </g>
 </svg>
