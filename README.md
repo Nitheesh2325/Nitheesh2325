@@ -1,11 +1,15 @@
 # Nitheesh Chanambatla
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile.png">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/profile-light-mobile.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.png">
-  <img alt="Nitheesh Chanambatla data engineering profile" src="assets/profile-dark.png">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile.png">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/profile-light-mobile.png">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="assets/profile-light.png">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile-v2.gif">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/profile-light-mobile-v2.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark-v2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light-v2.gif">
+  <img alt="Nitheesh Chanambatla data engineering profile" src="assets/profile-dark-v2.gif">
 </picture>
 
 I build data pipelines, analytical warehouses, validation systems, and
