@@ -46,6 +46,18 @@ passed; hosted CI uses a 1,000-row full-pipeline fixture.
 Full-snapshot local batch processing—not incremental ingestion, CDC, streaming,
 cloud orchestration, or production deployment.
 
+## Open-source tool
+
+### [Profile Console Studio](https://github.com/Nitheesh2325/profile-console-studio)
+
+MIT-licensed Python tool that generates responsive desktop/mobile and
+light/dark GitHub profile heroes from YAML. It produces animated GIFs, static
+reduced-motion fallbacks, ready-to-copy profile markup, and publishing-safety
+validation. Version 1.0.0 has 14 automated tests and passing hosted CI on
+Python 3.11 and 3.12.
+
+`Python` · `Pillow` · `PyYAML` · `GitHub Actions` · `Accessibility`
+
 ## Technical toolkit
 
 - **Languages:** Python, SQL, Java, Scala, Shell
