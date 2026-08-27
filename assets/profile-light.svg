@@ -12,17 +12,17 @@
     <text x="395" y="89" fill="#0969da">IDENTITY</text>
     <text x="395" y="119" fill="#0369a1">Name ............</text><text x="552" y="119" fill="#172033">Nitheesh Chanambatla</text>
     <text x="395" y="146" fill="#0369a1">Role ............</text><text x="552" y="146" fill="#172033">Data Engineer</text>
-    <text x="395" y="173" fill="#0369a1">Track ...........</text><text x="552" y="173" fill="#172033">Cloud Data Engineering</text>
+    <text x="395" y="173" fill="#0369a1">Track ...........</text><text x="552" y="173" fill="#172033">Cloud &amp; Geospatial Data Engineering</text>
     <text x="395" y="200" fill="#0369a1">Location ........</text><text x="552" y="200" fill="#172033">Dayton, Ohio</text>
     <text x="395" y="227" fill="#0369a1">Status ..........</text><text x="552" y="227" fill="#087f5b">Open to Data Engineering opportunities</text>
     <path d="M395 249h535" stroke="#b8c4d2"/>
     <text x="395" y="277" fill="#0969da">TECHNICAL FOCUS</text>
-    <text x="395" y="307" fill="#0369a1">Languages .......</text><text x="552" y="307" fill="#172033">Python, SQL</text>
-    <text x="395" y="334" fill="#0369a1">Processing ......</text><text x="552" y="334" fill="#172033">Kafka, Apache Spark, Pandas</text>
-    <text x="395" y="361" fill="#0369a1">Orchestration ...</text><text x="552" y="361" fill="#172033">Apache Airflow</text>
-    <text x="395" y="388" fill="#0369a1">Databases .......</text><text x="552" y="388" fill="#172033">PostgreSQL, PostGIS, SQLite</text>
-    <text x="395" y="415" fill="#0369a1">Serving .........</text><text x="552" y="415" fill="#172033">FastAPI, Streamlit</text>
-    <text x="395" y="442" fill="#0369a1">Remote sensing ..</text><text x="552" y="442" fill="#172033">NASA ARSET, hyperspectral data</text>
+    <text x="395" y="307" fill="#0369a1">Core ............</text><text x="552" y="307" fill="#172033">Python, SQL</text>
+    <text x="395" y="334" fill="#0369a1">Data platforms ..</text><text x="552" y="334" fill="#172033">Spark, Kafka, Airflow</text>
+    <text x="395" y="361" fill="#0369a1">Cloud ...........</text><text x="552" y="361" fill="#172033">AWS, EMR Serverless, S3</text>
+    <text x="395" y="388" fill="#0369a1">Data stores .....</text><text x="552" y="388" fill="#172033">PostgreSQL, PostGIS</text>
+    <text x="395" y="415" fill="#0369a1">Geospatial ......</text><text x="552" y="415" fill="#172033">NASA FIRMS, remote-sensing data engineering</text>
+    <text x="395" y="442" fill="#0369a1">Delivery ........</text><text x="552" y="442" fill="#172033">GitHub Actions, Docker, data quality</text>
     <path d="M395 464h535" stroke="#b8c4d2"/>
     <text x="395" y="492" fill="#b76518">VERIFIED SYSTEMS</text>
     <text x="395" y="522" fill="#0369a1">NASA ............</text><text x="552" y="522" fill="#172033">1M replay events | 6,688.88 events/sec</text>
@@ -30,8 +30,8 @@
     <text x="395" y="576" fill="#0369a1">RetailSync ......</text><text x="552" y="576" fill="#172033">100K deterministic orders | Pandas | SQLite</text>
     <path d="M395 598h535" stroke="#b8c4d2"/>
     <text x="395" y="626" fill="#0969da">CONTACT + ACCURACY</text>
-    <text x="395" y="652" fill="#0369a1">LinkedIn ........</text><text x="552" y="652" fill="#172033">linkedin.com/in/nitheesh2325</text>
-    <text x="395" y="678" fill="#0369a1">Email ...........</text><text x="552" y="678" fill="#172033">nitheeshc2325@gmail.com</text>
+    <text x="395" y="652" fill="#0369a1">Web .............</text><text x="552" y="652" fill="#172033">astrayan.dev</text>
+    <text x="395" y="678" fill="#0369a1">LinkedIn ........</text><text x="552" y="678" fill="#172033">linkedin.com/in/nitheesh2325</text>
     <text x="395" y="704" fill="#0369a1">AWS .............</text><text x="552" y="704" fill="#b76518">EMR Serverless | 5M independently verified</text>
   </g>
 </svg>

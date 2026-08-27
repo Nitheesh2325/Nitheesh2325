@@ -1,6 +1,8 @@
 # Nitheesh Chanambatla
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-dark-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/profile-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
   <img alt="Nitheesh Chanambatla data engineering profile" src="assets/profile-dark.svg">
@@ -42,14 +44,14 @@ cloud orchestration, or production deployment.
 
 ## Technical toolkit
 
-- **Languages:** Python, SQL
-- **Processing:** Apache Kafka, Apache Spark, Pandas
-- **Orchestration:** Apache Airflow
-- **Databases:** PostgreSQL, PostGIS, SQLite
-- **Data engineering:** ETL, dimensional modelling, SCD Type 2, validation, reconciliation, idempotency
+- **Languages:** Python, SQL, Java, Scala, Shell
+- **Data platforms:** Apache Spark, Apache Kafka, Airflow, Pandas, Hadoop/HDFS/YARN, Hive, Presto, AWS Glue, Informatica
+- **Streaming and CDC:** Kafka Connect, Debezium, Amazon Kinesis, Amazon Data Firehose
+- **Cloud:** AWS EMR Serverless, S3, Glue Data Catalog, Athena, Lambda, Redshift, IAM, KMS, CloudFormation, CloudWatch
+- **Databases and modelling:** PostgreSQL, PostGIS, SQLite, dimensional modelling, star and snowflake schemas, SCD Type 2
+- **Reliability and delivery:** validation, reconciliation, idempotency, retries and recovery, quarantine, Git, Jenkins, GitHub Actions, Docker, ELK
 - **Serving and visualization:** FastAPI, Streamlit
-- **Engineering tools:** Git, GitHub Actions, Docker, automated testing
-- **Cloud:** AWS EMR Serverless, S3, KMS, CloudFormation, IAM, CloudWatch
+- **Web delivery:** JavaScript, HTML/CSS, Node.js, Vercel, Supabase, Zod, responsive accessibility, security headers
 
 ## Remote sensing training
 
@@ -70,6 +72,7 @@ and coastal systems, and sustainable Earth-science application development.
 
 ## Contact
 
+- [ASTRAYAN.dev](https://astrayan.dev/)
 - [LinkedIn](https://www.linkedin.com/in/nitheesh2325/)
 - [nitheeshc2325@gmail.com](mailto:nitheeshc2325@gmail.com)
 - Open to Data Engineering opportunities

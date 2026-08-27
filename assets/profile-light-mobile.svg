@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="760" viewBox="0 0 390 760" role="img" aria-labelledby="title desc">
+  <title id="title">Nitheesh Chanambatla — Data Engineer</title>
+  <desc id="desc">Mobile data engineering profile with portrait, technical focus, verified systems, and contact details.</desc>
+  <rect width="390" height="760" rx="14" fill="#f7f9fc" stroke="#d0d7de"/>
+  <rect x="1" y="1" width="388" height="43" rx="13" fill="#eef3f8"/>
+  <circle cx="17" cy="22" r="4" fill="#087f5b"/><circle cx="31" cy="22" r="4" fill="#0969da"/><circle cx="45" cy="22" r="4" fill="#b45309"/>
+  <text x="60" y="27" fill="#172033" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="600">nitheesh@data-engineering</text>
+  <svg x="14" y="60" width="122" height="180" viewBox="13 140 340 502" preserveAspectRatio="xMidYMid slice">
+    <image href="profile-light.svg" width="960" height="740"/>
+  </svg>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="151" y="72" fill="#0969da" font-size="10">IDENTITY</text>
+    <text x="151" y="95" fill="#172033" font-size="13" font-weight="700">Nitheesh Chanambatla</text>
+    <text x="151" y="119" fill="#0369a1" font-size="10">ROLE</text><text x="151" y="137" fill="#172033" font-size="12">Data Engineer</text>
+    <text x="151" y="159" fill="#0369a1" font-size="10">TRACK</text><text x="151" y="177" fill="#172033" font-size="11">Cloud &amp; Geospatial</text><text x="151" y="193" fill="#172033" font-size="11">Data Engineering</text>
+    <text x="151" y="215" fill="#0369a1" font-size="10">DAYTON, OHIO</text>
+    <text x="151" y="235" fill="#087f5b" font-size="9.5">Open to opportunities</text>
+    <path d="M14 256h362" stroke="#d0d7de"/>
+    <text x="14" y="280" fill="#0969da" font-size="10">TECHNICAL FOCUS</text>
+    <g font-size="10.5">
+      <text x="14" y="306" fill="#0369a1">Core</text><text x="126" y="306" fill="#172033">Python · SQL</text>
+      <text x="14" y="337" fill="#0369a1">Data platforms</text><text x="126" y="337" fill="#172033">Spark · Kafka · Airflow</text>
+      <text x="14" y="368" fill="#0369a1">Cloud</text><text x="126" y="368" fill="#172033">AWS · EMR Serverless · S3</text>
+      <text x="14" y="399" fill="#0369a1">Data stores</text><text x="126" y="399" fill="#172033">PostgreSQL · PostGIS</text>
+      <text x="14" y="430" fill="#0369a1">Geospatial</text><text x="126" y="430" fill="#172033">NASA FIRMS · remote-sensing</text><text x="126" y="446" fill="#172033">data engineering</text>
+      <text x="14" y="477" fill="#0369a1">Delivery</text><text x="126" y="477" fill="#172033">GitHub Actions · Docker</text><text x="126" y="493" fill="#172033">data quality</text>
+    </g>
+    <path d="M14 512h362" stroke="#d0d7de"/>
+    <text x="14" y="536" fill="#b45309" font-size="10">VERIFIED SYSTEMS</text>
+    <g font-size="10.5">
+      <text x="14" y="562" fill="#0369a1">NASA</text><text x="92" y="562" fill="#172033">Local 1M · AWS 5M replay events</text><text x="92" y="578" fill="#172033">8,734.80 events/sec on AWS</text>
+      <text x="14" y="605" fill="#0369a1">Customer360</text><text x="92" y="605" fill="#172033">400K verified sales facts</text>
+      <text x="14" y="632" fill="#0369a1">RetailSync</text><text x="92" y="632" fill="#172033">100K deterministic orders</text>
+    </g>
+    <path d="M14 650h362" stroke="#d0d7de"/>
+    <text x="14" y="674" fill="#0969da" font-size="10">CONTACT</text>
+    <g font-size="10.5">
+      <text x="14" y="700" fill="#0369a1">Web</text><text x="92" y="700" fill="#172033">astrayan.dev</text>
+      <text x="14" y="724" fill="#0369a1">LinkedIn</text><text x="92" y="724" fill="#172033">linkedin.com/in/nitheesh2325</text>
+      <text x="14" y="748" fill="#0369a1">Email</text><text x="92" y="748" fill="#172033">nitheeshc2325@gmail.com</text>
+    </g>
+  </g>
+</svg>
